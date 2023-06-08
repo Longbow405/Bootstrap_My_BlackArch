@@ -23,8 +23,7 @@ Step 1. Get a current Arch Linux install iso from https://archlinux.org/download
 Follow the arch linux wiki at https://wiki.archlinux.org/title/archinstall. 
 4. Configure the arch install as needed. At the profile section, select desktop ->
 xfce4 for the defaults in this script.
-5. When the install finishes, run the script in the newly installed, reboot into
-6. the new desktop environment and run the script. 
+5. When the install finishes, reboot into the new desktop environment and run the script. 
  
 THE SCRIPT MUST BE RUN AS SUDO.
 
