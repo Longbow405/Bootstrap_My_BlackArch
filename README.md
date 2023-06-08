@@ -17,6 +17,12 @@ judgement. It has a default list of tools, as well as some basic utilities.
 
 Feel free to edit for your own purposes. 
 
+For more information on Blackarch, or for iso installer downloads, visit 
+https://www.blackarch.org
+
+For a complete list of availabe tools in the BlackArch repo, visit
+https://blackarch.org/tools.html
+
 Step 1. Get a current Arch Linux install iso from https://archlinux.org/download/
 2. Load the iso into your hypervisor and configure as necessary.
 3. Boot the virtual machine, and run archinstall at the command prompt.
